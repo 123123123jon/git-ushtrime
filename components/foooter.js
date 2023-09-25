@@ -1,0 +1,1 @@
+console.log("Ky eshte footeri")
