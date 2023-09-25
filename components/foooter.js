@@ -1,1 +1,1 @@
-console.log("Ky eshte footeri")
+console.log("footer2")
